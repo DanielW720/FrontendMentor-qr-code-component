@@ -14,8 +14,8 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](./solution/)
+- Live Site URL: [Live site]()
 
 ### Built with
 
