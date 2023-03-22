@@ -15,7 +15,7 @@ The challenge is to build out this QR code component and get it looking as close
 ### Links
 
 - Solution URL: [Solution](./solution/)
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://bucolic-rolypoly-c00f50.netlify.app/solution/)
 
 ### Built with
 
