@@ -49,7 +49,7 @@ body {
     text-align: center;
 }
 
-.card article h2 {
+.card article h1 {
     font-weight: 700;
     color: var(--darkblue);
 }
